@@ -1,6 +1,10 @@
-# Olá, eu sou Lincon Melo
+# Lincon Melo
 
-### Entre o circuito e o código.
+### A técnica conecta. A criatividade transforma.
+
+[![Bancada de eletrônica — composição ilustrativa](assets/workbench.webp)](https://pkaraoke.github.io/pkaraoke/)
+
+**[ABRIR MEU PORTFÓLIO →](https://pkaraoke.github.io/pkaraoke/)**
 
 Conecto experiência em **Eletrotécnica, Mecânica Industrial e Informática** ao desenvolvimento de ferramentas para necessidades reais. Minha trajetória reúne manutenção elétrica e eletrônica, diagnóstico de falhas, automação, redes e integração de sistemas.
 
@@ -19,6 +23,12 @@ Conecto experiência em **Eletrotécnica, Mecânica Industrial e Informática** 
 | **Utilitários próprios** | Processamento de mídia, conversão de imagens e automação de tarefas. | Python, FFmpeg, Bash |
 
 São projetos próprios em desenvolvimento e evolução contínuos. Meu foco é aproximar a operação dos equipamentos da experiência de quem usa o sistema, com atenção à compatibilidade, manutenção e recuperação de falhas.
+
+## Um olhar sobre os projetos
+
+[![Conceito visual das reações do PKFila](assets/pkfila-concept.webp)](https://pkaraoke.github.io/pkaraoke/#pkfila)
+
+*Mockup conceitual do PKFila, criado durante a evolução do projeto.*
 
 ## Minha base técnica
 

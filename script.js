@@ -1,17 +1,16 @@
 "use strict";
-
-// The document is fully usable without JavaScript. This small enhancement
-// describes which project is focused in the architecture diagram.
-const projectMap = document.querySelector(".ecosystem");
-const counter = document.querySelector(".map-counter");
-if (projectMap && counter) {
-  const nodes = [...projectMap.querySelectorAll(".system-node")];
-  const showIndex = (node) => {
-    const index = nodes.indexOf(node);
-    if (index >= 0) counter.textContent = `${String(index + 1).padStart(2, "0")} / 04`;
-  };
-  nodes.forEach((node) => {
-    node.addEventListener("focus", () => showIndex(node));
-    node.addEventListener("pointerenter", () => showIndex(node));
+// Content stays visible when animations are unsupported or disabled.
+if ('IntersectionObserver' in window && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, {threshold: 0.06});
+  document.querySelectorAll('.about-grid, .credential-band, .project-feature, .project-card, .skills-layout, .career-grid').forEach((el) => {
+    el.classList.add('reveal-ready');
+    observer.observe(el);
   });
 }
