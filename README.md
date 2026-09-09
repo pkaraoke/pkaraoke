@@ -2,9 +2,7 @@
 
 ### A técnica conecta. A criatividade transforma.
 
-[![Painel de equipamentos do PKSync — dados de identificação ocultados](assets/pksync-panel.webp)](https://pkaraoke.github.io/pkaraoke/)
-
-*Captura do painel PKSync, editada para ocultar dados de identificação.*
+[![Equipamentos e sistemas PKaraokê, PKSync e PKControle](assets/pk-universe.webp)](https://pkaraoke.github.io/pkaraoke/)
 
 **[ABRIR MEU PORTFÓLIO →](https://pkaraoke.github.io/pkaraoke/)**
 
@@ -14,7 +12,18 @@ Conecto experiência em **Eletrotécnica, Mecânica Industrial e Informática** 
 
 [LinkedIn](https://br.linkedin.com/in/linconmelo) · [E-mail](mailto:lincon.melo@gmail.com) · [PKaraokê](https://pkaraoke.com.br)
 
-## O que estou construindo
+## Equipamentos e serviços
+
+Meu trabalho também está na **PKaraokê / Karaoke Express**, com fabricação, venda, locação e personalização de equipamentos de entretenimento:
+
+- [Karaokê profissional 3×1](https://pkaraoke.com.br/karaoke.php): karaokê, Jukebox e Bluetooth.
+- [Fliperama BarTop EVO](https://pkaraoke.com.br/fliperama.php): jogos retrô e comandos para duas pessoas.
+- [Torta na Cara](https://pkaraoke.com.br/torta-na-cara.php): perguntas, botoeiras e sinalização para a disputa.
+- [Karaokê Maleta 2×1](https://pkaraoke.com.br/vendas.php): karaokê e Jukebox no formato compacto.
+
+[Loja oficial](https://pkaraoke.com.br/vendas.php) · [Aluguel pela Karaoke Express](https://pkaraoke.com.br/karaokeexpress/) · [Personalização e contato](https://pkaraoke.com.br/contato.php)
+
+## Sistemas que desenvolvo
 
 | Projeto | Propósito | Tecnologias e contexto |
 | --- | --- | --- |
@@ -25,12 +34,6 @@ Conecto experiência em **Eletrotécnica, Mecânica Industrial e Informática** 
 | **Utilitários próprios** | Processamento de mídia, conversão de imagens e automação de tarefas. | Python, FFmpeg, Bash |
 
 São projetos próprios em desenvolvimento e evolução contínuos. Meu foco é aproximar a operação dos equipamentos da experiência de quem usa o sistema, com atenção à compatibilidade, manutenção e recuperação de falhas.
-
-## Um olhar sobre os projetos
-
-[![Conceito visual das reações do PKFila](assets/pkfila-concept.webp)](https://pkaraoke.github.io/pkaraoke/#pkfila)
-
-*Mockup conceitual do PKFila, criado durante a evolução do projeto.*
 
 ## Minha base técnica
 
