@@ -2,7 +2,9 @@
 
 ### A técnica conecta. A criatividade transforma.
 
-[![Bancada de eletrônica — composição ilustrativa](assets/workbench.webp)](https://pkaraoke.github.io/pkaraoke/)
+[![Painel de equipamentos do PKSync — dados de identificação ocultados](assets/pksync-panel.webp)](https://pkaraoke.github.io/pkaraoke/)
+
+*Captura do painel PKSync, editada para ocultar dados de identificação.*
 
 **[ABRIR MEU PORTFÓLIO →](https://pkaraoke.github.io/pkaraoke/)**
 
